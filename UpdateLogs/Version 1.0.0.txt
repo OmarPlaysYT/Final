@@ -1,0 +1,706 @@
+	Update Log - Version 1.0.0:
+
+1- Player:
+
+- Model
+ - - 670 Models
+- Outfit Changer
+ - - Hats
+ - - Hats Texture
+ - - Glasses
+ - - Glasses Texture
+ - - Ears
+ - - Ears Texture
+ - - Torso Invisible
+ - - Torso Invisible Texture
+ - - Torso
+ - - Torso Texture
+ - - Legs
+ - - Legs Texture
+ - - Parachutes
+ - - Parachutes Texture
+ - - Shoes
+ - - Shoes Texture
+ - - Special 1
+ - - Special 1 Texture
+ - - Special 2
+ - - Special 2 Texture
+ - - Special 3
+ - - Special 3 Texture
+- Health
+- - Regeneration
+  - - - Auto Restore
+  - - - Auto Heal
+  - - - Auto Generate Armor
+ - - Immortality
+ - - Heal in Cover
+ - - Max Health
+ - - Max Armor
+- Annimations
+ - - Scenarios
+  - - - 38 Scenarios
+ - - Clear Animation
+ - - 10 Animaions
+- Mouvement
+ - - No Clip
+  - - - No Clip Toggle
+  - - - Speed
+  - - - Basic No-Clip Toggle
+ - - Walking Styles
+  - - - 32 Walking Styles
+ - - Super Jump
+ - - Ultra Jump
+ - - Ultra Run
+ - - Walk Underwater
+ - - Swim Anywhere
+ - - Electric Cam
+ - - Slow Motion
+ - - Walk Through Water
+- Proofs
+ - - Bullet
+ - - Fire
+ - - Explosion
+ - - Collision
+ - - Melee
+ - - Steam
+ - - Drown
+- Appearance
+ - - Hand Trails
+   - - - Enabled
+   - - - Rainbow
+ - - Vision
+   - - - Reset
+   - - - 14 Visions
+- Misc
+ - - Mobile Radio
+ - - Vomit Mode
+ - - No Jumping
+ - - Fire Breath
+ - - Quick Reswpan
+ - - Forcefield
+ - - Ignored by all Peds
+ - - Seatbelt
+ - - Clone
+ - - Clear Tasks
+- Disables
+ - - Drag Out
+ - - Gangs
+- Particles
+ - - Particle Mod
+  - - - Ghost Rider
+  - - - Clow
+  - - - Death
+  - - - Firework
+  - - - Electric
+  - - - Water
+  - - - Smoke
+ - - Looped
+ - - 11 Particle Effects
+- Abilities
+ - - Explode Vehicles
+ - - Push Vehicles Away
+ - - Vegetable Mode
+- Flags
+ - - Dies By Ragdoll
+ - - Fall Through Windscreen
+ - - Diaper
+ - - Injured
+- Never Wanted
+- No Ragdoll
+- Invisibility
+- Suicide
+- Clean Player
+- Bad Sport Hat
+- Karma
+- Small
+- Reduced Collision
+- Paranormal Mode
+- Player Alpha
+- Disable Collision
+- Dry
+
+2- Weapon:
+
+- Gravity Editor
+ - - Enable
+ - - Distance
+ - - Gravity Gun V.2 (beta)
+- Special Weapons
+ - - Teleport Gun
+ - - Laser Sight
+ - - Digi Scanner
+ - - Dildo
+ - - Gun Case
+ - - Guitar
+ - - Garbage Bag
+ - - Handcuffs
+ - - Briefcase
+ - - Railgun
+ - - Stungun
+ - - BZ Gas
+ - - Fire Extinguisher
+ - - Flare
+ - - Firework Launcher
+ - - Musket
+ - - Snowball
+ - - Smokegrenade Launcher
+- Misc Weapon
+ - - Shrink Peds
+- Visuals
+ - - Paint
+  - - - Enable
+  - - - Rinbow
+- Modifiers
+ - - Infinite Ammo
+ - - Model Change Gun
+ - - Rainbow Gun
+ - - Give All Weapons
+ - - Give MK2 Weapons
+ - - Give Normal Weapons
+ - - Take All Weapons
+ - - Max Ammo
+- One Shot One Kill
+- Rapid Fire
+- Revive Gun
+- Triggerbot
+- Aimbot
+- Dead Eye
+- Friendly Fire
+- Invisible Weapons
+- Cat Gun
+- Repair Gun
+
+3- Vehicle:
+
+- Health
+ - - Vehicle God Mode
+ - - Repair Vehicle
+ - - Fully Tune
+ - - Auto Repair
+ - - Clean Vehicle
+ - - Auto Wash
+ - - Clean Vehicle Loop
+ - - Engine Always On
+ - - Dirty Vehicle
+ - - Wash Vehicle
+ - - Destroy Vehicle
+- Movement
+ - - Horn Boost
+  - - - Toggle
+  - - - Smooth Horn Boost
+ - - Vehicle Fly
+  - - - Toggle
+  - - - Speed
+  - - - Stop After No Input
+  - - - No Collision
+ - - Bypass Max Speed
+ - - Drift Mode
+ - - Nuts Mode
+ - - Hand Brake
+ - - Instantly Enter
+- Miscellaneous
+ - - F1 Wheels
+ - - Flip Vehicle
+ - - Invisible Vehicle
+ - - Disable Collision
+ - - Burn Vehicle Shell
+ - - Auto Flip
+- Doors
+ - - Open All Doors
+ - - Close All Doors
+ - - Delete All Doors
+- Vehicle LSC
+ - - Paint Chrome
+ - - Paint Random
+ - - Armor
+ - - Engine
+ - - Break
+ - - Spoiler
+ - - Skirt
+ - - Suspension
+ - - Transmission
+ - - Front Bumper
+ - - Rear Bumper
+ - - Exhaust
+ - - Hood
+ - - Rollcage
+ - - Horn
+- Vehicle Multipliers
+ - - Turn On Multipliers
+ - - Acceleration Multiplier
+ - - Brakes Multiplier
+ - - Suspension Multiplier
+- Handling
+ - - Enable
+ - - Brake Force
+ - - Acceleration
+ - - Suspension Force
+ - - Upshift Deformation
+ - - Vehicle Deformation
+ - - Traction Curve
+- Add Ramp
+- Turn Off Vehicle
+- Vehicle Speed
+- Set Vehicle Speed
+- Bypass Oppressor Cooldown
+
+4- Spawn:
+
+- Spawner Settings
+ - - With Max Upgrades
+ - - In Vehicle
+ - - With Car God Mode
+ - - With Effect
+ - - Clean Vehicle
+- Super
+ - - 42 Vehicles
+- Sports
+ - - 60 Vehicles
+- Sport Classic
+ - - 37 Vehicles
+- Offroad
+ - - 49 Vehicles
+- Sedans
+ - - 32 Vehicles
+- Coupes
+ - - 15 Vehicles
+- Muscle
+ - - 60 Vehicles
+- Boats
+ - - 21 Vehicles
+- Commercial
+ - - 14 Vehicles
+- Compacts
+ - - 12 Vehicles
+- Cycles
+ - - 7 Vehicles
+- Emergency
+ - - 19 Vehicles
+- Helicopters
+ - - 26 Vehicles
+- Industrial
+ - - 11 Vehicles
+- Planes
+ - - 34 Vehicles
+- Military
+ - - 13 Vehicles
+- Motorcycles
+ - - 53 Vehicles
+- Service
+ - - 12 Vehicles
+- SUV
+ - - 33 Vehicles
+- Trailer
+ - - 25 Vehicles
+- Trains
+ - - 7 Vehicles
+- Utility
+ - - 19 Vehicles
+- Vans
+ - - 35 Vehicles
+- Trucks
+ - - 29 Vehicles
+- Arena War
+ - - 42 Vehicles
+- Input Vehicle
+
+5- Teleport:
+
+- IPLs
+ - - North Yankton
+ - - Aircraft Carrier
+ - - Sunken Cargoship
+ - - Hospital
+ - - Oneil Farm
+ - - Life Invader Office
+ - - Cargoship
+ - - Jewelry Store
+ - - Morgue
+- Island
+ - - Island 1
+ - - Island 2
+ - - Island 3
+- Properties
+ - - Apartment
+ - - Yacht
+ - - Office
+ - - Bunker
+ - - Hangar
+ - - Agency
+ - - Warehouse
+ - - Vehicle Warehouse
+ - - Nighclub
+ - - Clubhouse
+ - - Arena
+ - - Autoshop
+- Inside Interior
+ - - Casino Teleport
+  - - - Lucky Wheel
+  - - - Chip Cashier
+  - - - Inside Track
+  - - - Table Games
+ - - Laptop
+- Airfields
+ - - LSIA
+ - - Sandy Shore
+ - - McKenzie
+- Landmarks
+ - - Vinewood Sign
+ - - Pier
+ - - Lighthouse
+- Stores
+ - - Ammunition
+ - - Mask
+ - - Tattoo
+- Los Santos Customs
+ - - Aiport
+ - - La Mesa
+ - - Paleto Bay
+- Indoors
+ - - Franklin's House
+ - - Franklin's First House
+ - - Trevor's House
+ - - Michael's House
+ - - Lester's House
+ - - Prison
+ - - Floyd's Apartment
+ - - Strip Club
+- Glitched Locations
+ - - Race Underground Bunker
+ - - FBI Roof
+ - - Police Station
+ - - Behind Bar In Strip Club
+ - - City Wall
+ - - Casino
+ - - Beach House
+ - - Under Bridge
+- Free Cam Teleport
+- Waypoint
+- Objective
+- Drive Nearest Car
+- Jump In Nearest Car
+- Teleport To Last Driven Vehicle
+
+6- World:
+
+- Clouds
+ - - 13 Cloud Types
+- Weather
+ - - Random
+ - - 11 Weather Types
+- Nearby
+ - - Pedestrians
+  - - - Kill Nearby Peds
+  - - - Auto Delete Nearby Peds
+  - - - Delete Nearby Peds
+  - - - Aggressive Driving
+ - - Traffic
+  - - - Delete Nearby Vehicles
+  - - - Max Nearby Vehicles
+  - - - Kill Nearby Engines
+  - - - Out Of Control
+ - - Clear Area
+- Traffic
+ - - Chaos Mode
+ - - Moon Gravity
+- Time
+ - - Add Hour
+ - - Remove Hour
+ - - Freeze Time
+- Glow
+ - - Enabled
+ - - Rainbow
+ - - Red
+ - - Green
+ - - Blue
+- Train (beta)
+ - - Speed
+ - - Delete
+ - - Spawn
+- Ocean
+ - - Part Water
+- End It Mode
+- Refresh Interior
+- Lighting World
+- Disable Lights
+
+7- Session:
+
+- PlayerList
+ - - {Player Name}
+  - - - General
+     - - - - Spectate Player
+     - - - - Copy Outfit
+   - - - Griefing Options
+     - - - - Attachments
+       - - - - - Orange Ball
+     - - - - Disable
+       - - - - - Disable Vehicles
+       - - - - - Disable Interiors
+       - - - - - Disable Weapons
+     - - - - Lag Player
+     - - - - Clone Spam
+     - - - - Explode
+     - - - - Kick From Vehicle
+     - - - - Place In Cage
+     - - - - Clone
+     - - - - Taze
+     - - - - Burn
+     - - - - Hostile Buzzard
+   - - - Peaceful Options
+     - - - - Give All Weapons
+   - - - ESP
+     - - - - ESP Box
+     - - - - ESP Lines
+     - - - - Name Tag ESP
+   - - - Vehicle Options
+     - - - - Spawn
+       - - - - - Give Player T20
+       - - - - - Give Player Monster
+       - - - - - Give Player Tank
+       - - - - - Give Player Docker
+     - - - - Vehicle God Mode
+     - - - - Fix Vehicle
+     - - - - Max Vehicle
+     - - - - Steal Vehicle
+     - - - - Pop Tires
+     - - - - Slingshot Car
+     - - - - Fuck Handling
+     - - - - Delete Vehicle
+     - - - - Kill Engine
+     - - - - Nitrous Mod
+     - - - - Boost Player Vehicle
+     - - - - Lock Player Doors
+     - - - - Unlock Player Doors
+   - - - Crash
+     - - - - Ped Crash
+     - - - - Team Ped Crash
+     - - - - Ped Weapon Crash
+   - - - Kicks
+     - - - - Rise Kick
+     - - - - Pickup Kick
+     - - - - Uno Kick
+- Show As Omar User
+- No Idle Kick
+- Off Radar
+- Show Session Info
+- OmarPlays User Block
+
+8- Protection:
+
+- Network Events
+ - - Notify
+ - - Clear Tasks
+ - - CEO Ban
+ - - CEO Kick
+ - - Block Transaction Error
+ - - Block Clear Wanted
+ - - Block Kicks
+ - - Clear Ped Task
+ - - Give Weapons
+ - - Sound Spam
+ - - Wanted Level
+ - - Explosions
+ - - Fire
+- Script Events
+ - - Notify
+ - - Smart Protection
+ - - All
+ - - Sound Spam
+ - - Infinite Loading
+ - - Bounty
+ - - Claim Bounty
+ - - CEO Money
+ - - Force Mission
+ - - GTA Banner
+ - - Rotate Cam
+ - - Force Cutscene
+ - - Force Apartment
+ - - Network Bail
+ - - Kick Protection
+ - - Crash Protection
+ - - Vote Kick
+- Emergencies
+ - - Anti Game Events
+ - - Anti Control
+- Miscellaneous
+ - - Block Joining
+ - - Desync Kick
+ - - Block Reports
+ - - Wanted Protection
+ - - Attachment Protection
+ - - Blame
+- Reaction
+ - - Report Reaction :: Kick - Crash - Net Events - Malicious
+- Notify
+- Host Kick Protection
+- Menu User Block
+
+9- Recovery:
+
+- Money
+ - - Currently Off
+- ATM
+ - - Transfer Money To Wallet
+ - - Transfer Money To Bank
+- Rank
+ - - Input Rank
+- Unlocks
+ - - Badsport
+   - - - Clear
+ - - Other
+   - - - Unlock Special Hat
+   - - - Unlock Special Stuff
+ - - Unlock All
+ - - Unlock Armor
+ - - Unlock Clothes
+ - - Max Snacks
+ - - Unlock LSC Parts
+ - - Clear Reports
+ - - Unlock Achievements
+ - - Change Gender
+ - - Unlock Weapon Liveries
+ - - Unlock Weapons
+ - - Unlock Trophies
+- Misc
+ - - Fill CEO Office With Cash
+ - - Bypass Tutorial
+ - - Redesign Character
+ - - Change Character Gender
+ - - Clear Mental State
+- Stats
+ - - Max
+ - - Stamine
+ - - Strength
+ - - Driving
+ - - Flying
+ - - Shooting
+ - - Stealth
+ - - Randomize
+- Heist Control
+ - - Cayo Perico
+   - - - Cayo Presets
+     - - - - Solo
+     - - - - 2 Players
+   - - - Skip Cayo Setups
+   - - - Remove Cooldown
+   - - - Scope POIs
+   - - - Hard Mode
+ - - Contract DLC
+   - - - Skip Contract Heist Setups
+ - - Classic Heist
+   - - - Skip Heist Setup
+   - - - $5M Pay-Out
+   - - - $2.5M Pay-Out
+- Casino
+ - - Slotmachines
+   - - - Bypass Slotmachine Limit
+ - - Reset Lucky Wheel Timer
+ - - Reset Chip Cooldown
+ - - Podium Vehicle
+
+10- Miscellaneous:
+
+- Object Spawner
+ - - Props
+   - - - 1015 Prop
+ - - Peds
+   - - - 670 Ped
+- Graphics
+ - - Potato Mode
+- Disables
+ - - Disable Cutscenes
+ - - Disable HUD
+ - - Disable Map Restrictions
+ - - Disable Stunt Jump Cutscenes
+- Stat Viewer
+ - - RP
+ - - Report Strength
+ - - Commend Strength
+ - - Friendly Commends
+ - - Helpful Commends
+ - - Exploits
+ - - Griefing
+ - - Offensive Language
+ - - Offensive UGC
+ - - VC Hate
+ - - Punished
+ - - Kills
+ - - Won Races
+ - - Money Earned In Jobs
+ - - Total Earned Money
+ - - Armwrestling Wins
+ - - Deathmatch Wins
+ - - Deathmatch Losses
+ - - Deathmatch Kills
+ - - Deathmatch Deaths
+ - - Goft Wins
+ - - Range Wins
+ - - Tennis Wins
+ - - Club Popularity
+- Reset Graphics
+- Snow Trails & Footsteps
+- Remove Transaction Loading
+- See Through Walls
+- Bail To Singleplayer
+- Meteor Shower
+- Airstrike Mode
+- Make Cards Horn
+- Flash Minimap
+- Skip Cutscene
+- Refresh Map
+- Unfreeze Player
+
+11- Settings:
+- Theme Loader
+ - - Headers
+   - - - Multiple Options
+- Menu UI
+ - - Position X
+ - - Position Y
+ - - Width
+ - - Smooth Scroll
+ - - Smooth Scroll Delay
+ - - Rainbow Menu
+- Hotkeys
+ - - TP To Waypoint (F9)
+ - - TP To Mission (F10)
+- Fonts
+ - - Multiple Options
+- Links
+ - - OmarPlays Discord Server
+ - - Dev Team Discord Server
+- Display
+ - - Game Info
+   - - - FPS
+   - - - Slots
+   - - - Cords
+ - - Menu Info
+   - - - Since 06/20/2024
+   - - - Menu Version
+ - - Show FPS
+- Menu Colors
+ - - Scroller
+   - - - Scroller Red
+   - - - Scroller Green
+   - - - Scroller Blue
+ - - Background
+   - - - Background Red
+   - - - Background Green
+   - - - Background Blue
+ - - Subtitles
+   - - - Subtitles Red
+   - - - Subtitles Green
+   - - - Subtitles Blue
+ - - Arrow
+   - - - Arrow Red
+   - - - Arrow Green
+   - - - Arrow Blue
+- Credits
+ - - CreamyPlaytime
+ - - Rezo
+ - - Illusion
+ - - Snow
+ - - OmarPlays
+ - - Norxy
+ - - Xlsimridalx
